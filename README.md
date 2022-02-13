@@ -1,5 +1,4 @@
-# Basal-Metabolic-Rate-BMR-
-Basal Metabolic Rate build with C++
+# Simple Basal Metabolic Rate (BMR)
 
 # Require
 1. MinGW
